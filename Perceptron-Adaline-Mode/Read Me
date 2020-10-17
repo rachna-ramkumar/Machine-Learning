@@ -1,0 +1,27 @@
+The programming assignment for the Perceptron/Adaline mode is
+
+1. Download the sample Python code that comes with the assigned textbook, Python Machine Learning*.
+
+2. Use the Iris dataset that’s referenced in the text.  (add page reference)
+
+3. You can use the sample code from the text as a starting point or you can write your own code from scratch.
+
+4. Pick two classes of data (i.e., two species of Iris) and two features from the four in the dataset, so that the data for two species are linearly separable using the features that you have chosen. 
+
+Then Apply the Perceptron and Adaline models to the classes/feature that you have chosen and report your results.
+
+5. Repeat Step 4) using three features at a time.
+
+6. Repeat Step 4) using all four features at the same time.
+
+7. Pick two classes of data (i.e., two species of Iris) and two features from the four in the dataset, so that the data for two species are NOT linearly separable using the features that you have chosen.
+
+Then Apply the Perceptron and Adaline models to the classes/features that you have chosen and report your results.
+
+8. Repeat Step 7) using three features at a time.
+
+9. Repeat Step 7) using all four feature at the same time.
+
+10. Compare your results for the Perceptron and Adaline models.  
+
+11. Submit your results as an ipython notebook (i.e. in ipynb format).
