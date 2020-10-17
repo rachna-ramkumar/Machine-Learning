@@ -1,0 +1,12 @@
+The programming assignment for the Support Vector Machine model is
+
+1. Using the Scikit-Learn Library train the SVM model on the complete Iris data set using all of the features at once.
+
+2. Run the SVM model (at least) four times using a different kernel each time.
+
+   1. Compare the results for each of the kernels.
+
+   2. Plot the results (including the decision boundaries) using two features at a time (since you’re limited to two dimensions in plotting) for three of the cases (i.e., for three of the kernels).   Note that you need to fit the model using all four of the features but then plot the results using only two of the features.
+
+   3. Discuss the pros and cons of using each of the kernels that you’ve chosen.
+
