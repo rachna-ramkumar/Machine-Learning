@@ -1,0 +1,8 @@
+The programming assignment for the Decision Tree model is
+
+1. Using the Scikit-Learn Library train the Decision Tree Classifier to the complete Iris data set using all of the features at once.
+
+2. Run the model for trees of depth 1, 2, 3, 4, 5, and 6 and for the Gini Impurity and Entropy impurity measures for each tree depth.   Compare the results of these 12 cases and discuss your results.
+
+
+
