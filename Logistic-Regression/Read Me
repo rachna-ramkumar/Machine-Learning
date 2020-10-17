@@ -1,0 +1,22 @@
+The programming assignment for the Logistic Regression model is
+ 
+
+1. Become familiar with the Scikit-Learn toolkit.  All of the documentation for this great machine learning toolkit is available online.
+
+2. Use the Iris dataset that you used in the programming assignment for the Perceptron/Adaline module.
+
+3. Using the Scikit-Learn Library, train the Logistic Regression model using the following
+
+   1. All six cases of using two features at a time.
+
+   2. All four cases of using three features at a time.
+
+   3. The one case of using all features at once.
+
+4. Summarize your results (i.e, what’s the best accuracy you can obtain for each of the 11 cases you considered, how many iterations does it take to converge, anything else you think is relevant and important) in a table.
+
+5. Play with both L1 and L2 regularization and vary the regularization parameter C.
+
+6. Discuss your findings.  Does using more dimensions help when trying to classify the data in this dataset?  How important is regularization in these cases?
+
+7. You can use the step by step coding course example uploaded in resources on the course site.
