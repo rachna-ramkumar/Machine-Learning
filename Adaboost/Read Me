@@ -1,0 +1,4 @@
+Apply the Scikit Learn AdaBoost Classifier code to the Iris dataset using all three categories and all four feature at once and upload your .ipynb file. Use a Decision Tree Classifier at your base classifier. Try using decision trees of varying depths for the base classifier.
+
+Compare your results with those you obtained last week when you used the Scikit Decision Tree Classifier code to the Iris dataset using all three categories and all four feature at once.
+
