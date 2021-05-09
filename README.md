@@ -1,4 +1,6 @@
-# Machine-Learning
+# CS-GY-6923 : Machine-Learning
+## New York University
 
-CSGY - 6923 - Machine Learning
+Implementations of Various Machine Learning Algorithms
+
 
